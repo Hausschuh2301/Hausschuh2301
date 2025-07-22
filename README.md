@@ -34,8 +34,6 @@
 | [java-calculator](https://github.com/hausschuh2301/) | Console calculator made in Java |
 | [python-bot](https://github.com/hausschuh2301/) | Python bot for automation or Discord |
 
-> 💡 Replace links or upload your own projects anytime.
-
 ---
 
 ## 📫 Contact
