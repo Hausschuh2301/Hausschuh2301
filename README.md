@@ -29,10 +29,10 @@
 
 | Project | Description |
 |--------|-------------|
-| [unity-platformer](https://github.com/yourusername/unity-platformer) | A 2D platformer made with Unity and C# |
-| [web-portfolio](https://github.com/yourusername/web-portfolio) | My personal website built with HTML/CSS |
-| [java-calculator](https://github.com/yourusername/java-calculator) | Console calculator made in Java |
-| [python-bot](https://github.com/yourusername/python-bot) | Python bot for automation or Discord |
+| [unity-platformer](https://github.com/hausschuh2301/) | A 2D platformer made with Unity and C# |
+| [web-portfolio](https://github.com/hausschuh2301/) | My personal website built with HTML/CSS |
+| [java-calculator](https://github.com/hausschuh2301/) | Console calculator made in Java |
+| [python-bot](https://github.com/hausschuh2301/) | Python bot for automation or Discord |
 
 > 💡 Replace links or upload your own projects anytime.
 
